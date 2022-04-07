@@ -1,6 +1,6 @@
 # select all files with extension .txt
 *.txt
 
-!3.txt
+# !3.txt
 
 hey.js
